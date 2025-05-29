@@ -1,0 +1,28 @@
+# Ignore environment files
+.env
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+venv/
+env/
+
+# VS Code settings (optional)
+.vscode/
+
+# Executables
+*.exe
+
+# PDFs or OCR output (optional)
+*.pdf
+*.docx
