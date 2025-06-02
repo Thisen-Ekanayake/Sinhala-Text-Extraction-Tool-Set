@@ -6,11 +6,11 @@ import time
 import random
 
 # === CONFIG ===
-START_ID = 93059
-END_ID = 95000  # update this to scrape more
+START_ID = 175803
+END_ID = 185000  # update this to scrape more
 BATCH_SIZE = 100
-DELAY_BETWEEN_BATCHES = 30  # 10 minutes
-SAVE_DIR = "adaderana_articles_5000_new_new_new"
+DELAY_BETWEEN_BATCHES = 10  # 10 minutes
+SAVE_DIR = "adaderana_articles_10000"
 HEADERS = {'User-Agent': 'Mozilla/5.0'}
 
 # === Setup ===
